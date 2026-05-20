@@ -1,0 +1,171 @@
+# Archived training log, 2026-05-19; do not edit for report numbers — see results/*.txt
+epoch: 0, iteration: 0
+[Train] loss: 2.399355870325712, score: 0.0
+epoch: 0, iteration: 100
+[Train] loss: 0.3505377007307434, score: 0.875
+epoch: 0, iteration: 200
+[Train] loss: 0.33368505453552477, score: 0.9375
+epoch: 0, iteration: 300
+[Train] loss: 0.15436386305319338, score: 0.96875
+epoch: 0, iteration: 400
+[Train] loss: 0.3122423791181118, score: 0.875
+epoch: 0, iteration: 500
+[Train] loss: 0.07577932077340735, score: 1.0
+epoch: 0, iteration: 600
+[Train] loss: 0.1870695335234468, score: 0.90625
+epoch: 0, iteration: 700
+[Train] loss: 0.040992466261959806, score: 1.0
+epoch: 0, iteration: 800
+[Train] loss: 0.5762569258921271, score: 0.8125
+epoch: 0, iteration: 900
+[Train] loss: 0.11234711031637641, score: 0.96875
+epoch: 0, iteration: 1000
+[Train] loss: 0.2615426962583215, score: 0.9375
+epoch: 0, iteration: 1100
+[Train] loss: 0.24452294135496355, score: 0.9375
+epoch: 0, iteration: 1200
+[Train] loss: 0.08886983406873501, score: 0.96875
+epoch: 0, iteration: 1300
+[Train] loss: 0.09735534588296096, score: 0.96875
+epoch: 0, iteration: 1400
+[Train] loss: 0.03975115151148488, score: 1.0
+epoch: 0, iteration: 1500
+[Train] loss: 0.0633384162267639, score: 1.0
+epoch: 0 finished — [Dev] loss: 0.11988429890906557, score: 0.9655
+best accuracy performence has been updated: 0.00000 --> 0.96550
+epoch: 1, iteration: 0
+[Train] loss: 0.09302832800877106, score: 0.9375
+epoch: 1, iteration: 100
+[Train] loss: 0.010763319086557154, score: 1.0
+epoch: 1, iteration: 200
+[Train] loss: 0.06337810165591182, score: 0.96875
+epoch: 1, iteration: 300
+[Train] loss: 0.06484645510885767, score: 0.96875
+epoch: 1, iteration: 400
+[Train] loss: 0.039472823696004695, score: 1.0
+epoch: 1, iteration: 500
+[Train] loss: 0.09233423320287255, score: 0.96875
+epoch: 1, iteration: 600
+[Train] loss: 0.03470735193862889, score: 1.0
+epoch: 1, iteration: 700
+[Train] loss: 0.0351484672128444, score: 1.0
+epoch: 1, iteration: 800
+[Train] loss: 0.08528188331238354, score: 0.96875
+epoch: 1, iteration: 900
+[Train] loss: 0.10838559389868008, score: 0.96875
+epoch: 1, iteration: 1000
+[Train] loss: 0.025944773317011404, score: 1.0
+epoch: 1, iteration: 1100
+[Train] loss: 0.07058831255653002, score: 1.0
+epoch: 1, iteration: 1200
+[Train] loss: 0.03367598696762634, score: 1.0
+epoch: 1, iteration: 1300
+[Train] loss: 0.2913614764315958, score: 0.9375
+epoch: 1, iteration: 1400
+[Train] loss: 0.11603173395234243, score: 0.96875
+epoch: 1, iteration: 1500
+[Train] loss: 0.025287827196651992, score: 1.0
+epoch: 1 finished — [Dev] loss: 0.08587972575233617, score: 0.9757
+best accuracy performence has been updated: 0.96550 --> 0.97570
+epoch: 2, iteration: 0
+[Train] loss: 0.040368202123426344, score: 1.0
+epoch: 2, iteration: 100
+[Train] loss: 0.05709829530232404, score: 1.0
+epoch: 2, iteration: 200
+[Train] loss: 0.17320076775892393, score: 0.96875
+epoch: 2, iteration: 300
+[Train] loss: 0.033456050817800516, score: 0.96875
+epoch: 2, iteration: 400
+[Train] loss: 0.0025028876758128454, score: 1.0
+epoch: 2, iteration: 500
+[Train] loss: 0.16019464114369758, score: 0.9375
+epoch: 2, iteration: 600
+[Train] loss: 0.029424192917451034, score: 1.0
+epoch: 2, iteration: 700
+[Train] loss: 0.05612885327593736, score: 0.96875
+epoch: 2, iteration: 800
+[Train] loss: 0.011770064695850227, score: 1.0
+epoch: 2, iteration: 900
+[Train] loss: 0.016996911453691557, score: 1.0
+epoch: 2, iteration: 1000
+[Train] loss: 0.01381487976644547, score: 1.0
+epoch: 2, iteration: 1100
+[Train] loss: 0.19652502400219202, score: 0.9375
+epoch: 2, iteration: 1200
+[Train] loss: 0.03393916086060253, score: 1.0
+epoch: 2, iteration: 1300
+[Train] loss: 0.13106119541588973, score: 0.9375
+epoch: 2, iteration: 1400
+[Train] loss: 0.01013819078228511, score: 1.0
+epoch: 2, iteration: 1500
+[Train] loss: 0.10054403215501859, score: 0.96875
+epoch: 2 finished — [Dev] loss: 0.07646489650655804, score: 0.9783
+best accuracy performence has been updated: 0.97570 --> 0.97830
+epoch: 3, iteration: 0
+[Train] loss: 0.02407135496209309, score: 1.0
+epoch: 3, iteration: 100
+[Train] loss: 0.030534510994657458, score: 1.0
+epoch: 3, iteration: 200
+[Train] loss: 0.028415229743124527, score: 1.0
+epoch: 3, iteration: 300
+[Train] loss: 0.26726552820475197, score: 0.9375
+epoch: 3, iteration: 400
+[Train] loss: 0.03469659031366567, score: 1.0
+epoch: 3, iteration: 500
+[Train] loss: 0.04627642810654901, score: 0.96875
+epoch: 3, iteration: 600
+[Train] loss: 0.006107961391729197, score: 1.0
+epoch: 3, iteration: 700
+[Train] loss: 0.062307951873589784, score: 1.0
+epoch: 3, iteration: 800
+[Train] loss: 0.02982852862716073, score: 1.0
+epoch: 3, iteration: 900
+[Train] loss: 0.11954563642900971, score: 0.9375
+epoch: 3, iteration: 1000
+[Train] loss: 0.014524327519502974, score: 1.0
+epoch: 3, iteration: 1100
+[Train] loss: 0.039690092790776454, score: 1.0
+epoch: 3, iteration: 1200
+[Train] loss: 0.03835804883448222, score: 0.96875
+epoch: 3, iteration: 1300
+[Train] loss: 0.17569659081324143, score: 0.9375
+epoch: 3, iteration: 1400
+[Train] loss: 0.04190317522271503, score: 1.0
+epoch: 3, iteration: 1500
+[Train] loss: 0.20120838114453407, score: 0.90625
+epoch: 3 finished — [Dev] loss: 0.0736581788340472, score: 0.9784
+best accuracy performence has been updated: 0.97830 --> 0.97840
+epoch: 4, iteration: 0
+[Train] loss: 0.09015238944705348, score: 0.96875
+epoch: 4, iteration: 100
+[Train] loss: 0.1524211292942273, score: 0.96875
+epoch: 4, iteration: 200
+[Train] loss: 0.009149749516566347, score: 1.0
+epoch: 4, iteration: 300
+[Train] loss: 0.014382373672071035, score: 1.0
+epoch: 4, iteration: 400
+[Train] loss: 0.00843161509548862, score: 1.0
+epoch: 4, iteration: 500
+[Train] loss: 0.0835297029813299, score: 0.96875
+epoch: 4, iteration: 600
+[Train] loss: 0.18941416871688815, score: 0.9375
+epoch: 4, iteration: 700
+[Train] loss: 0.13989932226786528, score: 0.9375
+epoch: 4, iteration: 800
+[Train] loss: 0.04628818098390224, score: 1.0
+epoch: 4, iteration: 900
+[Train] loss: 0.09410262427853995, score: 0.96875
+epoch: 4, iteration: 1000
+[Train] loss: 0.011542575837074616, score: 1.0
+epoch: 4, iteration: 1100
+[Train] loss: 0.20356436273593734, score: 0.9375
+epoch: 4, iteration: 1200
+[Train] loss: 0.14807335889447062, score: 0.96875
+epoch: 4, iteration: 1300
+[Train] loss: 0.036003043102242865, score: 1.0
+epoch: 4, iteration: 1400
+[Train] loss: 0.028888192540479158, score: 1.0
+epoch: 4, iteration: 1500
+[Train] loss: 0.09543870258315097, score: 0.96875
+epoch: 4 finished — [Dev] loss: 0.07008523955479787, score: 0.979
+best accuracy performence has been updated: 0.97840 --> 0.97900

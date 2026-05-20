@@ -1,0 +1,26 @@
+Part C CNN — MomentGD training summary
+==================================================
+Optimizer: MomentGD, mu=0.9, init_lr=0.06
+Model: same as Part B CNN
+epoch_0_dev: 0.9748
+epoch_1_dev: 0.9850
+epoch_2_dev: 0.9872
+epoch_3_dev: 0.9885
+epoch_4_dev: 0.9886
+best_val: 0.9886
+best_val_epoch: 4
+first_epoch_dev_ge_0.97: 0
+first_epoch_dev_ge_0.975: 1
+best_val_first_2_epochs: 0.9850
+Final train loss: 0.0009
+Final train accuracy: 1.0000
+Final dev loss: 0.0444
+Final dev accuracy: 0.9886
+
+baseline_source: training_part_b.log epoch-end dev (SGD)
+baseline_epoch_0_dev: 0.9655
+baseline_epoch_1_dev: 0.9757
+baseline_epoch_2_dev: 0.9783
+baseline_epoch_3_dev: 0.9784
+baseline_epoch_4_dev: 0.9790
+baseline_best_val: 0.9790

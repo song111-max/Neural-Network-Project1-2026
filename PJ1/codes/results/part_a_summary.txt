@@ -1,0 +1,9 @@
+Part A MLP Baseline — training summary
+==================================================
+Model: 784 -> 600 (ReLU) -> 10
+Epochs: 5, batch_size: 32, init_lr: 0.06
+Best validation accuracy: 0.9504
+Final train loss: 0.0678
+Final train accuracy: 1.0000
+Final dev loss: 0.1770
+Final dev accuracy: 0.9504

@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+.venv-freeze/
+**/.venv/
+**/.venv-freeze/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MNIST raw data (download locally)
+PJ1/codes/dataset/MNIST/*.gz
+PJ1/codes/dataset/MNIST/*.ubyte
+
+# Weights & split index (use ModelScope / 网盘)
+PJ1/codes/**/*.pickle
+PJ1/codes/idx.pickle
+PJ1/codes/best_models/
+PJ1/codes/best_models_cnn/
+PJ1/codes/best_models_cnn_momentum/
+PJ1/codes/best_models_cnn_momentum_smoke/
+PJ1/codes/saved_models/
+
+# Large result figures (embed in PDF; do not push)
+PJ1/codes/results/**/*.png
+
+# Internal planning docs (optional: keep local only)
+PJ1/PartC_执行提示词.md
+PJ1/PartC_计划报告_供审阅.md
+PJ1/**/*_草稿.md
+PJ1/codes/results/*_模板.md
+.cursor/
+__MACOSX/
+.DS_Store

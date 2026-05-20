@@ -1,0 +1,10 @@
+Part B CNN — training summary
+==================================================
+Model: Conv(1->8, 3x3, pad=1) -> ReLU -> MaxPool(2x2)
+       -> Flatten -> Linear(1568->128) -> ReLU -> Linear(128->10)
+Epochs: 5, batch_size: 32, init_lr: 0.06
+Best validation accuracy: 0.9790
+Final train loss: 0.0954
+Final train accuracy: 0.9688
+Final dev loss: 0.0701
+Final dev accuracy: 0.9790

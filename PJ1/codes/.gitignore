@@ -1,0 +1,13 @@
+.venv/
+.venv-freeze/
+**/.venv/
+**/.venv-freeze/
+__pycache__/
+*.pyc
+dataset/MNIST/*.gz
+idx.pickle
+best_models*/
+best_models_cnn*/
+best_models_cnn_momentum*/
+results/**/*.png
+*.pickle
